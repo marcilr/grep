@@ -10,3 +10,7 @@ commands.txt
 
 grep.txt
   grep, egrep, fgrep - print lines matching a pattern
+
+syntax/
+  Syntax for grep
+
