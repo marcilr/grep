@@ -1,0 +1,12 @@
+commands.txt
+Created Wed Oct 23 15:42:57 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Commands for grep
+
+
+$ grep -iRl "reports" ./   <=== Dom June 14, 2019
+
+
+FIXME: Definition of above arguments?
