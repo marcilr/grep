@@ -1,0 +1,6 @@
+grep.txt
+Created Wed Oct 23 15:38:34 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+grep, egrep, fgrep - print lines matching a pattern
