@@ -1,0 +1,6 @@
+syntax.txt
+Created Wed Oct 23 15:41:33 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Syntax for grep
